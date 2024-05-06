@@ -477,7 +477,7 @@ html, body {
 }
 
 .section-counters {
-    background: url("/Users/saraalameri/Desktop/website2/assets/imgs/valentin-g-NzpUstrj0w0-unsplash.jpg") no-repeat center / cover;
+    background: url("../assets/imgs/valentin-g-NzpUstrj0w0-unsplash.jpg") no-repeat center / cover;
     width: 100%;
     padding: 100px 0;
     position: relative;
